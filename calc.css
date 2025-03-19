@@ -1,0 +1,40 @@
+div {
+    justify-content: center;
+    text-align: center;
+    height: 370px;
+    max-width: 250px;
+    margin-left: 550px;
+    margin-top: 100px;
+    background-color: red;
+    padding: 15px;
+}
+
+input {
+    height: 60px;
+    width: 220px;
+    font-size: 20px;
+    background-color: white;
+    text-align: right;
+}
+
+table {
+    height: 300px;
+    padding-left: 18px;
+    padding-top: 10px;
+}
+
+button {
+    height: 50px;
+    width: 50px;
+    cursor: pointer;
+    font-size: 18px;
+    background-color: blanchedalmond;
+}
+
+button:hover {
+    background-color: brown;
+}
+
+.eql {
+    background-color: tomato;
+}
